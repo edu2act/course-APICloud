@@ -1,0 +1,7 @@
+<manifest>
+	<activity
+            android:name="com.apicloud.moduleDemo.DemoActivity"
+            android:screenOrientation="portrait"
+        	android:configChanges="orientation|locale" >
+    </activity>
+</manifest>

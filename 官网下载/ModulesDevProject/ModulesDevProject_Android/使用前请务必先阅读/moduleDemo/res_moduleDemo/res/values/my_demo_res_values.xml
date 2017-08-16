@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mo_demo_bgColor">#FFF2F2F2</color>
+    <color name="mo_demo_downLoadTextNomal">#FF3366CC</color>
+    <color name="mo_demo_downLoadTextPressed">#FFFFFFFF</color>
+    <color name="mo_demo_downLoadBackNomal">#FFFFFFFF</color>
+
+	<string name="mo_demo_confirm_title">提示</string>
+    <string name="mo_demo_ensure">确定</string>
+    <string name="mo_demo_cancel">取消</string>
+    <string name="mo_demo_content_description_icon">icon</string>
+    <string name="mo_demo_refresh">刷新</string>
+    <string name="mo_demo_processing">加载中</string>
+
+    <style name="mo_demo_AlertDialog" parent="android:Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>
